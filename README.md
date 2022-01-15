@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @crybwbe
-- 👀 I’m interested in become a dev front-end
+- 👀 I’m interested in become a front-end dev
 - 🌱 I’m currently learning git, html and css
 - 💞️ I'm looking to collaborate on what i can, its early to me but i'll try my best :))
 - I'm brazilian and my english sucks like me so if have any gramatical mistake just ignore it :D
